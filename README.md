@@ -5,6 +5,7 @@ Copy all code and paste it in your smm site. How?
 Go to your admin side, appearance > theme > actions > edit theme > and then find the script.js and paste the code then save. Done! Easy!
 
 COPY ALL CODE BELOW
+```html
 /* 
 ChatBot Widget
 */
@@ -92,3 +93,4 @@ Ex: suggest facebook followers
     };
   });
 })();
+</details> ```
